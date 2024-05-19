@@ -1,15 +1,10 @@
-# About myself
+# 我是谁？
 
-Hi, I am GoldenPig686.<br>
-I have learnt a little about the grammar of Java, C# and GDScript.<br>
-Addtionally, I know a little about the game engine Unity and Godot.<br>
-But I have a poor knowledge of them above and I am not going to learn them further for some personal reasons.<br>
-However, I am trying to learn Rust well as my home page which you can see.<br>
-I hope I will master Rust and make a large number of programs with it to help others.<br>
-I am only a student now, so some problems may occur in my code.<br>
-Please put forward my problems directly, and I will appreciate very much.
+同志你好，我是天才绣工！<br>
+目前，我正致力于使用[Godot](https://godotengine.org/)制作游戏。<br>
+我只是一个普通的学生，所以我的作品不像“职业选手”那样完美。不过如果您愿意指出我的问题，我将感激不尽。
 
-## How to contact me
+## 如何联系我？
 
-- You can contact me by my mailbox <aaronblack45@outlook.com>.
-- Because I am Chinese, you can search for "迎瀧近旳" on [bilibili](https://www.bilibili.com/) to contact me.
+- 邮箱 <aaronblack45@outlook.com>。
+- 在[bilibili](https://www.bilibili.com/)上搜索“迎瀧近旳”。
