@@ -7,4 +7,4 @@
 ## 如何联系我？
 
 - 邮箱 <aaronblack45@outlook.com>。
-- 在[bilibili](https://www.bilibili.com/)上搜索“迎瀧近旳”。
+- 在[bilibili](https://www.bilibili.com/)上搜索“天才绣工”。
