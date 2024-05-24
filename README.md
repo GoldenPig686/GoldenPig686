@@ -1,10 +1,10 @@
-# 我是谁？
+# About me
 
-同志你好，我是天才绣工！<br>
-目前，我正致力于使用[Godot](https://godotengine.org/)制作游戏。<br>
-我只是一个普通的学生，所以我的作品不像“职业选手”那样完美。不过如果您愿意指出我的问题，我将感激不尽。
+Hello, comrade. I am Aaron Marx Repidtar.<br>
+Now, I am using [Godot](https://godotengine.org/) to create video games.<br>
+I am just a ordinary student, so my works may not so perfect as those made by professionals. However, I welcome your amendment.
 
-## 如何联系我？
+## Contact me
 
-- 邮箱 <aaronblack45@outlook.com>。
-- 在[bilibili](https://www.bilibili.com/)上搜索“天才绣工”。
+- Mailbox: <aaronblack45@outlook.com>.
+- Search on [bilibili](https://www.bilibili.com/) for "天才绣工".
